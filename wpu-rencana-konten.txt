@@ -1,7 +1,9 @@
 Rencana Konten WPU
 - Javascipt
 *ES 6
+^Angular
+^React
 *Detail Javascript
-- Struktur Data Dasar
 - PHP Framework
+^Laravel
 - Database
