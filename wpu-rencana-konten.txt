@@ -4,8 +4,7 @@ Rencana Konten WPU
 ^ VUE
 ^ React
 *Detail Javascript
-- Struktur Data Dasar
 - PHP Framework
-^ Laravel
+^Laravel
 - Database
 - Phyton
